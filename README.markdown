@@ -1,5 +1,5 @@
-# Sua fatura 
+# Sua fatura (Conversor de moeda)
+A atividade faz parte da semana de #ImersãoDev da Alura e tinha como objetivo apresentar as linguagens de marcação e de estilização, além inserir a linguagem de programação ( JavaScript) aos novos usuários. 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/airtonlimajr/pen/BapoJVX](https://codepen.io/airtonlimajr/pen/BapoJVX).
-
+![Interface conversor de moedas sua fatura](https://github.com/airtonlimajr/conversordemoedassuafatura/blob/main/Webp.net-gifmaker.gif)
 
