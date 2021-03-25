@@ -1,0 +1,48 @@
+body {
+ font-family: 'Roboto Mono',monospace;
+ min-height: 480px;
+background-image: url(https://pbs.twimg.com/media/ExGKiV-WYA0HZMC?format=jpg&name=large); 
+background-color: #20b2aa;
+background-size: 255vh;
+background-position: center; 
+background-repeat: no-repeat;
+}
+
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 45px;
+  right:10px;}
+
+
+  .page-logo {
+  width: 200px;
+  position: absolute;
+  top: 70px;
+  right: 0px;
+}
+
+
+.page-title {
+width: 400px;
+ color:  #20b2aa;
+  margin: 150px;
+
+
+}
+
+
+.page-subtitle {
+  color: #808080;
+  font-family: Georgia;
+  margin-top: 180 px;
+}
+
+.container {
+color: #808080;	
+width: 100%;
+margin-top: 180xp;
+padding: : 20px;
+bottom: 180px;}
+}
